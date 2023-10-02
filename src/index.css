@@ -13,7 +13,7 @@ body{
 }
 
 #root{
-  background: url('src/img/background.png');
+  background: url('/src/img/background.png');
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
