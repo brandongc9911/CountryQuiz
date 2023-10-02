@@ -2,8 +2,8 @@
 
 <div align="center">
    <h3>
-    <a target="_blank" href="https://github.com/brandongc9911/Cotizador-Criptos">
-      https://github.com/brandongc9911/CountryQuiz
+    <a target="_blank" href="https://github.com/brandongc9911/CountryQuiz">
+    Repositorio
     </a>
     <span> | </span>
     <a target="_blank" href="https://playful-llama-85718d.netlify.app">
